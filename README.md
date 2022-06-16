@@ -1,4 +1,4 @@
-## Hi there ,[I'm 尘世烟雨客!🫶🏻](https://www.wangqianlong.com)
+## Hi there ,I'm 尘世烟雨客!🫶
 
 <!--
 **wql521/wql521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
