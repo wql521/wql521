@@ -65,5 +65,5 @@
 <!-- Most Used Languages:end -->
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wql521&theme=github-light)](https://github.com/wql521)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wql521&theme=github-light)
 
