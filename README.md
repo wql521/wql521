@@ -21,9 +21,6 @@
 <img align="right" height="180" src="https://github-readme-stats.vercel.app/api?username=wql521&show_icons=true&count_private=true"/>
 <!-- github-stats:end -->
 
-<!-- Most Used Languages:start -->
-<img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wql521&theme=light&layout=compact"/>
-<!-- Most Used Languages:end -->
 
 #### My Skill Set
 <!-- languages:start -->
@@ -41,6 +38,10 @@
 <!-- prettier-ignore-end -->
 
 <!-- languages:end -->
+
+<!-- Most Used Languages:start -->
+<img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wql521&theme=light&layout=compact"/>
+<!-- Most Used Languages:end -->
 
 #### Tools
 
