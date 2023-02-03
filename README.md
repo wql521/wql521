@@ -67,41 +67,10 @@
 <!-- Most Used Languages:end -->
 
 
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=wql521&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wql521&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+
+
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 230 Contributions in the Year 2023
- > 
-> 📦 269.1 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 13 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I Mostly Code in Java** 
-
-```text
-Java                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-MATLAB                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/wql521/wql521/main/charts/bar_graph.png) 
-
-
- Last Updated on 03/02/2023 11:56:27 UTC
 <!--END_SECTION:waka-->
 
 
