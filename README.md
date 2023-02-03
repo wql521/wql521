@@ -62,6 +62,24 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-288-blue)
+
+**I Mostly Code in Java** 
+
+```text
+Java                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+MATLAB                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+
+```
+
+
+
+ Last Updated on 03/02/2023 16:04:59 UTC
 <!--END_SECTION:waka-->
 
 
