@@ -63,6 +63,6 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wql521&theme=github-light)
 
 <!-- Most Used Languages:start -->
-<img align="center" width="1000"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wql521&theme=light"/>
+<img align="center" width="300"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wql521&theme=light"/>
 <!-- Most Used Languages:end -->
 
