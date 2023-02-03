@@ -61,7 +61,7 @@
 ---
 
 <!-- Most Used Languages:start -->
-<img align="center"  height="200" width="1000"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wql521&theme=light&layout=compact"/>
+<img align="center" width="1000"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wql521&theme=light&layout=compact"/>
 <!-- Most Used Languages:end -->
 
 
