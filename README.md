@@ -1,7 +1,7 @@
 <img align="right" width=230 src="https://github.com/wql521/wql521/blob/main/鞠婧祎.jpg">
 
 # Hi there, I'm 尘世烟雨客 ! 🫶
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Simplified+Chinese&weight=800&size=40&pause=1000&width=700&height=70&lines=Hi+there%2C+I'm+%E5%B0%98%E4%B8%96%E7%83%9F%E9%9B%A8%E5%AE%A2+!+%F0%9F%AB%B6)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Simplified+Chinese&weight=900&size=36&pause=1000&center=true&vCenter=true&width=590&height=63&lines=Hi+there%2C+I'm+%E5%B0%98%E4%B8%96%E7%83%9F%E9%9B%A8%E5%AE%A2+!+%F0%9F%AB%B6)](https://git.io/typing-svg)
 
 <!--
 **wql521/wql521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
