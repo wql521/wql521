@@ -1,6 +1,6 @@
 <img align="right" width=230 src="https://github.com/wql521/wql521/blob/main/鞠婧祎.jpg">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=31&pause=1000&width=500&height=55&lines=Hi+there%2C+I%E2%80%98m+%E5%B0%98%E4%B8%96%E7%83%9F%E9%9B%A8%E5%AE%A2+!+%F0%9F%AB%B6%F0%9F%8F%BB;%E4%BD%A0%E5%A5%BD%2C+%E6%88%91%E6%98%AF+%E5%B0%98%E4%B8%96%E7%83%9F%E9%9B%A8%E5%AE%A2+!+%F0%9F%AB%B6%F0%9F%8F%BB)](https://git.io/typing-svg)<!--
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=31&pause=1000&width=500&height=55&lines=Hi+there%2C+I%E2%80%98m+%E5%B0%98%E4%B8%96%E7%83%9F%E9%9B%A8%E5%AE%A2+!+%F0%9F%AB%B6%F0%9F%8F%BB;%E4%BD%A0%E5%A5%BD%2C+%E6%88%91%E6%98%AF+%E5%B0%98%E4%B8%96%E7%83%9F%E9%9B%A8%E5%AE%A2+!+%F0%9F%AB%B6%F0%9F%8F%BB)
 **wql521/wql521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
   **少年**，你有多久没有谈过一场恋爱了?
