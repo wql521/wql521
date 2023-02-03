@@ -10,7 +10,8 @@ jobs:
     name: Update wakatime stats charts
     runs-on: ubuntu-latest
     steps:
-      - uses: dvjn/wakatime-charts@master
+      - name: WakaTime Stats Charts Generator
+        uses: dvjn/wakatime-charts@v0.3.1
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # only required if using the action in repository other than profile
