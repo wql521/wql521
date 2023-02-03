@@ -39,9 +39,6 @@
 
 <!-- languages:end -->
 
-<!-- Most Used Languages:start -->
-<img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wql521&theme=light&layout=compact"/>
-<!-- Most Used Languages:end -->
 
 #### Tools
 
@@ -61,6 +58,10 @@
 
 <!-- tools:end -->
 
+
+<!-- Most Used Languages:start -->
+<img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wql521&theme=light"/>
+<!-- Most Used Languages:end -->
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wql521&theme=github-light)](https://github.com/wql521)
