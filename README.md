@@ -24,7 +24,7 @@
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" /></code>
+<code><img height="20" src="http://simpleicons.p2hp.com/icons/java.svg" alt="java" /></code>
 <code><img height="20" src="https://cdn.simpleicons.org/swift" alt="swift" /></code>
 <code><img height="20" src="https://cdn.simpleicons.org/cplusplus" alt="cplusplus" /></code>
 <code><img height="20" src="https://cdn.simpleicons.org/python" alt="python" /></code>
