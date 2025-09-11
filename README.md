@@ -3,16 +3,9 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=31&pause=1000&width=500&height=55&lines=Hi+there%2C+I%E2%80%98m+%E5%B0%98%E4%B8%96%E7%83%9F%E9%9B%A8%E5%AE%A2+!+%F0%9F%AB%B6%F0%9F%8F%BB;%E4%BD%A0%E5%A5%BD%2C+%E6%88%91%E6%98%AF+%E5%B0%98%E4%B8%96%E7%83%9F%E9%9B%A8%E5%AE%A2+!+%F0%9F%AB%B6%F0%9F%8F%BB)
 
-  **少年**，你有多久没有谈过一场恋爱了?
-    
-  ***我:*** 喜欢是什么感觉呢?🤔
- 
-  ***我:*** ***遇见即是上上签*** (~~不想了,不想了~~🤦🏻‍♂️)
   ### 你好,我的公主殿下👑
 ## **欢迎来到我的世界!🥳🥳**
 
-### You are my ![Visitor Count](https://profile-counter.glitch.me/wql521/count.svg) visitor, Thank You!🎉🎉
----
 
 #### My Skill Set
 <!-- languages:start -->
