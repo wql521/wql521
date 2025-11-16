@@ -7,23 +7,6 @@
 ## **欢迎来到我的世界!🥳🥳**
 
 
-#### My Skill Set
-<!-- languages:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<code><img height="20" src="http://simpleicons.p2hp.com/icons/java.svg" alt="java" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/swift" alt="swift" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/cplusplus" alt="cplusplus" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/python" alt="python" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/mysql" alt="mysql" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/javascript" alt="javascript" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/css3" alt="css3" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/html5" alt="html5" /></code>
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- languages:end -->
-
 #### Tools
 
 <!-- tools:start -->
