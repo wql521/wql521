@@ -6,25 +6,6 @@
   ### 你好,我的公主殿下👑
 ## **欢迎来到我的世界!🥳🥳**
 
-
-#### Tools
-
-<!-- tools:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<code><img height="20" src="https://cdn.simpleicons.org/intellijidea" alt="intellijidea" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/xcode" alt="xcode" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/pycharm" alt="pycharm" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/latex" alt="latex" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/androidstudio" alt="androidstudio" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/vuedotjs" alt="vuedotjs" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/macos" alt="macos" /></code>
-<code><img height="20" src="https://cdn.simpleicons.org/git" alt="git" /></code>
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- tools:end -->
-
 ___
 
 
