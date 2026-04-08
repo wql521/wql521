@@ -11,7 +11,7 @@ ___
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-552%20hrs%204%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-10.52%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
@@ -42,36 +42,35 @@ ___
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   9 hrs 53 mins       ████████████████░░░░░░░░░   64.45 % 
-Other                    3 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
-JSON                     1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-MATLAB                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-HTML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Python                   9 hrs 58 mins       ████████████████░░░░░░░░░   64.28 % 
+Other                    3 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+JSON                     1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+MATLAB                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+HTML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔥 编辑器: 
-VS Code                  15 hrs 20 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 30 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-裂缝反演                     15 hrs 20 mins      █████████████████████████   100.00 % 
+裂缝反演                     15 hrs 30 mins      █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  15 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Java** 
 
 ```text
-Java                     4 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-MATLAB                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Java                     4 repos             ███████████░░░░░░░░░░░░░░   44.44 % 
+JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+MATLAB                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
 
 
 
 
- Last Updated on 07/04/2026 19:34:44 UTC
+ Last Updated on 08/04/2026 19:43:59 UTC
 <!--END_SECTION:waka-->
 
 
