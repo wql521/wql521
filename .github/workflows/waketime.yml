@@ -19,6 +19,8 @@ jobs:
           LOCALE: "zh"
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_AI_CODE_TIME: "False"
           
           
           
